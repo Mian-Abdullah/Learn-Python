@@ -46,5 +46,6 @@ print(Bilal.salary)
 # understand -->> It is difficult to learn OOPs and Modelling to make classes is kind of difficult but using them
 # easy that we will feel great. You might hate OOPs, but here is an important thing that OOPs is not used as much in
 # Python -->> that a big statement but let me tell you it is not used that much If you are doing Machine Learning or
-# Data Science you will use alot of classes but not write alot of classes alot of mean not you will never write a
-# class, ok. I am not saying don't learn it, learning will never hurt
+# Data Science you will use a lot of classes but not write a lot of classes a lot of mean not you will never write a
+# class, If you ask can I say this about C++, I cannot because we create a lot of classes in C++,I am not saying don't
+# learn it, learning will never hurt
